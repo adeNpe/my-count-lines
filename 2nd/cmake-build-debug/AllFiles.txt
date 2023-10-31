@@ -1,0 +1,8 @@
+7
+D:/test/temp
+D:/test/temp/test1.txt
+D:/test/temp/test2.txt
+D:/test/temp/test3.txt
+D:/test/test1.cpp
+D:/test/test2.cpp
+D:/test/test3.cpp
