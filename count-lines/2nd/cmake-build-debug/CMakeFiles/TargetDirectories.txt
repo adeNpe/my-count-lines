@@ -1,0 +1,3 @@
+C:/Users/Redmi/CLionProjects/2nd/cmake-build-debug/CMakeFiles/2nd.dir
+C:/Users/Redmi/CLionProjects/2nd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Redmi/CLionProjects/2nd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
